@@ -165,7 +165,7 @@ def hangman(secret_word):
             print('Whoops! You losed, warnings left! :(')
             print('secret word: ', secret_word)
             exit(0)
-        if not (str.lower(input_letter) and str.isalpha(input_letter)) or input_letter != '*':
+        if not (str.lower(input_letter) or str.isalpha(input_letter)):
             warnings -= 1
             print('Oops! That is not valid letter. You have,', warnings, 'left: ', get_guessed_word(secret_word, letters_guessed))
         letters_guessed.append(input_letter)
