@@ -1,3 +1,5 @@
+# MIT6_0001F16_Lecture 1: Tuple, List, Aliasing, Mutability, Cloning
+
 """
 t1 = ('two', 4)
 t2 = (1, 'two', 3)

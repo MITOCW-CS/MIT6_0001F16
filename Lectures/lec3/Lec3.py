@@ -1,3 +1,5 @@
+# MIT6_0001F16_Lecture 3: Guess and Check, Approximations
+
 """
 # exhaustive enumeration
 x = float(input("x = "))
