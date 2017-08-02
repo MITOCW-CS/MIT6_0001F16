@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d74a8c-bf80-4b24-a9f0-993a95106dd3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignments/ps3/ps3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignments/ps3/test_ps3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignments/ps3/words.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -522,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501601811204</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MIT6_0001F16">
+      <created>1501644380268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1501644380268</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
