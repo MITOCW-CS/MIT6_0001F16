@@ -1,25 +1,40 @@
-while True:
-    try:
-        s = []
-        s = input().split()
-        n = int(s[0])
-        del s[0]
-        for i in range(0, n):
-            s[i] = int(s[i])
-        tmp = []
-        for i in range(1, n):
-            tmp.append(abs(s[i] - s[i - 1]))
-        tmp.sort()
-        check_jolly = True
-        for i in range(0, n - 1):
-            # print(i, ' -', tmp[i], end=' ')
-            if tmp[i] != i + 1:
-                check_jolly = False
-                break
-        if check_jolly:
-            print('Jolly')
-        else:
-            print('Not jolly')
-    except EOFError:
-        break
+import datetime
 
+
+class Person(object):
+
+    def __init__(self, name):
+        self.name = name
+        self.birthday = None
+
+    def get_name(self):
+        return self.name
+
+    def set_birthday(self, birthdate):
+        self.birthday = birthdate
+
+    def get_age(self):
+        if self.birthday is None:
+            raise ValueError
+        return (datetime.date.today() - self.birthday).days
+
+    def __lt__(self, other):
+        return self.birthday > other.birthday
+
+    def __str__(self):
+        return self.name
+
+
+class MITPerson(Person):
+    nextIdNum = 0
+
+    def __init__(self, name):
+        Person.__init__(name)
+        self.idNum = MITPerson.nextIdNum
+        MITPerson.nextIdNum += 1
+
+    def get_id_number(self):
+        return self.nextIdNum
+
+    def __lt__(self, other):
+        return self.idNum < other.idNum
