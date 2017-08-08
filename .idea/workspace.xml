@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d74a8c-bf80-4b24-a9f0-993a95106dd3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MIT6_0001F16.iml" afterPath="$PROJECT_DIR$/.idea/MIT6_0001F16.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec10/Lec10.py" afterPath="$PROJECT_DIR$/Lectures/lec10/Lec10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec8/Lec8.py" afterPath="$PROJECT_DIR$/Lectures/lec8/Lec8.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,15 +14,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Lec10.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lectures/lec10/Lec10.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MITPersonManager.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding>
-                <element signature="e#476#570#1" expanded="false" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,9 +58,10 @@
         <option value="$PROJECT_DIR$/1.py" />
         <option value="$PROJECT_DIR$/Assignments/ps3/ps3.py" />
         <option value="$PROJECT_DIR$/Lectures/lec7/Lec7.py" />
-        <option value="$PROJECT_DIR$/Lectures/lec8/Lec8.py" />
         <option value="$PROJECT_DIR$/Lectures/lec9/Lec9.py" />
         <option value="$PROJECT_DIR$/Lectures/lec10/Lec10.py" />
+        <option value="$PROJECT_DIR$/Lectures/lec8/Lec8.py" />
+        <option value="$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py" />
       </list>
     </option>
   </component>
@@ -108,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,13 +125,18 @@
               <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
               <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
               <item name="Lectures" type="462c0819:PsiDirectoryNode" />
+              <item name="lec8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
+              <item name="Lectures" type="462c0819:PsiDirectoryNode" />
               <item name="lec10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lec10">
+  <component name="RunManager" selected="Python.MITPersonManager">
     <configuration name="Lec10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,19 +230,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MITPersonManager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MIT6_0001F16" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec7/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,18 +313,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Lec7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lec8" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lec9" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Lec10" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Lec8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lec9" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Lec10" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MITPersonManager" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Lec10" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lec9" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Lec8" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Lec7" />
-        <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MITPersonManager" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Lec8" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Lec10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Lec9" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lec7" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502122616428</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="MIT6_0001F16">
+      <created>1502191033996</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1502191033996</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -469,7 +481,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -524,6 +536,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lectures/lec10/Lec10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#476#570#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lectures/lec9/Lec9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -746,13 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lectures/lec8/Lec8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="72" column="12" lean-forward="false" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lectures/lec9/Lec9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -760,13 +775,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lectures/lec8/Lec8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2426">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lectures/lec10/Lec10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="387">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding>
             <element signature="e#476#570#1" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
