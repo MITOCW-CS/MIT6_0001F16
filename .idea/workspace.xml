@@ -4,6 +4,7 @@
     <list default="true" id="f8d74a8c-bf80-4b24-a9f0-993a95106dd3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec10/Lec10.py" afterPath="$PROJECT_DIR$/Lectures/lec10/Lec10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec11/Lec11.py" afterPath="$PROJECT_DIR$/Lectures/lec11/Lec11.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lec10.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lec10.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lectures/lec10/Lec10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="186" column="0" lean-forward="true" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+            <state relative-caret-position="328">
+              <caret line="187" column="0" lean-forward="true" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lec11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lectures/lec11/Lec11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -71,6 +82,7 @@
         <option value="$PROJECT_DIR$/Lectures/lec8/Lec8.py" />
         <option value="$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py" />
         <option value="$PROJECT_DIR$/Lectures/lec10/Lec10.py" />
+        <option value="$PROJECT_DIR$/Lectures/lec11/Lec11.py" />
       </list>
     </option>
   </component>
@@ -140,6 +152,12 @@
               <item name="Lectures" type="462c0819:PsiDirectoryNode" />
               <item name="lec10" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
+              <item name="Lectures" type="462c0819:PsiDirectoryNode" />
+              <item name="lec11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -170,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lec10">
+  <component name="RunManager" selected="Python.Lec11">
     <configuration name="Lec10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,19 +206,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Lec7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lec11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MIT6_0001F16" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec7/Lec7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec11/Lec11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,19 +339,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Lec7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Lec8" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lec9" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lec10" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MITPersonManager" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Lec8" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Lec9" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lec10" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MITPersonManager" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lec11" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Lec10" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MITPersonManager" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Lec8" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Lec9" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Lec7" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Lec11" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Lec10" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MITPersonManager" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Lec8" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lec9" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502371172502</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="MIT6_0001F16">
+      <created>1502373115527</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1502373115527</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -845,8 +870,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lectures/lec10/Lec10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="186" column="0" lean-forward="true" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+        <state relative-caret-position="328">
+          <caret line="187" column="0" lean-forward="true" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lectures/lec11/Lec11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
           <folding />
         </state>
       </provider>
