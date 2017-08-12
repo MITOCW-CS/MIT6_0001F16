@@ -1,0 +1,6 @@
+WHAT COMPUTER SCIENCE DO
+
+    They think computationally
+        + Abstractions
+        + Algorithms
+        + Automated execution

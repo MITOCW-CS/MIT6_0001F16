@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d74a8c-bf80-4b24-a9f0-993a95106dd3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Recap.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec12/Lec12.py" afterPath="$PROJECT_DIR$/Lectures/lec12/Lec12.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lec12.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lec12.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lectures/lec12/Lec12.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recap.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lectures/Recap.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/Lectures/lec11/Lec11.py" />
         <option value="$PROJECT_DIR$/Lectures/lec8/AnimalManager.py" />
         <option value="$PROJECT_DIR$/Lectures/lec12/Lec12.py" />
+        <option value="$PROJECT_DIR$/Lectures/Recap.txt" />
       </list>
     </option>
   </component>
@@ -127,23 +138,6 @@
             <path>
               <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
               <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="ps0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="ps5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
@@ -523,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502519012319</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="MIT6_0001F16">
+      <created>1502528774847</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1502528774847</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -567,7 +568,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -977,6 +978,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lectures/Recap.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
