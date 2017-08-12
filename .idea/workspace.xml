@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d74a8c-bf80-4b24-a9f0-993a95106dd3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec8/AnimalManager.py" afterPath="$PROJECT_DIR$/Lectures/lec8/AnimalManager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lectures/lec12/Lec12.py" afterPath="$PROJECT_DIR$/Lectures/lec12/Lec12.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,22 +13,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AnimalManager.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lectures/lec8/AnimalManager.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PS0a.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignments/ps0/PS0a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MITPersonManager.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py">
+      <file leaf-file-name="Lec12.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lectures/lec12/Lec12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="80" column="7" lean-forward="false" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/Lectures/lec10/Lec10.py" />
         <option value="$PROJECT_DIR$/Lectures/lec11/Lec11.py" />
         <option value="$PROJECT_DIR$/Lectures/lec8/AnimalManager.py" />
+        <option value="$PROJECT_DIR$/Lectures/lec12/Lec12.py" />
       </list>
     </option>
   </component>
@@ -119,6 +120,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,31 +131,35 @@
             <path>
               <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
               <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="ps0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="ps5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
               <item name="Lectures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
               <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
               <item name="Lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="lec8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
-              <item name="Lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="lec10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MIT6_0001F16" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MIT6_0001F16" type="462c0819:PsiDirectoryNode" />
-              <item name="Lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="lec11" type="462c0819:PsiDirectoryNode" />
+              <item name="lec12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AnimalManager">
+  <component name="RunManager" selected="Python.Lec12">
     <configuration name="AnimalManager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,36 +236,36 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Lec8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lec12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MIT6_0001F16" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec8/Lec8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec12/Lec12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="MITPersonManager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PS0a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectures/lec8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/ps0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MIT6_0001F16" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/ps0/PS0a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +335,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Lec8" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Lec10" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MITPersonManager" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lec11" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AnimalManager" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Lec10" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Lec11" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AnimalManager" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PS0a" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lec12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AnimalManager" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lec11" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Lec10" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MITPersonManager" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Lec8" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Lec12" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PS0a" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AnimalManager" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Lec11" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lec10" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502517910160</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="MIT6_0001F16">
+      <created>1502519012319</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1502519012319</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -554,11 +567,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -645,11 +658,18 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignments/ps0/PS0a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lectures/lec8/MITPersonManager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,13 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/ps0/PS0a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -943,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="80" column="7" lean-forward="false" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,6 +961,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-50">
           <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/ps0/PS0a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lectures/lec12/Lec12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
